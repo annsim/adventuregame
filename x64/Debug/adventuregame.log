@@ -1,0 +1,5 @@
+﻿  adventuregame.cpp
+C:\Users\annasimo\source\repos\adventuregame\adventuregame.cpp(24,70): error C2664: 'Location *GameData::getLocationWithId(const std::string &)': cannot convert argument 1 from 'Location *' to 'const std::string &'
+C:\Users\annasimo\source\repos\adventuregame\adventuregame.cpp(24,70): message : Reason: cannot convert from 'Location *' to 'const std::string'
+C:\Users\annasimo\source\repos\adventuregame\adventuregame.cpp(24,70): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\annasimo\source\repos\adventuregame\gamedata.h(30,12): message : see declaration of 'GameData::getLocationWithId'

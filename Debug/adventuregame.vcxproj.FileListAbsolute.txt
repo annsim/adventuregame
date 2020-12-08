@@ -1,0 +1,2 @@
+C:\Users\annasimo\source\repos\adventuregame\Debug\adventuregame.exe
+C:\Users\annasimo\source\repos\adventuregame\Debug\adventuregame.pdb
